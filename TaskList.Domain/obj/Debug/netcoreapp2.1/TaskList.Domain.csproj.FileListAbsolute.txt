@@ -1,0 +1,9 @@
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Domain\bin\Debug\netcoreapp2.1\TaskList.Domain.deps.json
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Domain\bin\Debug\netcoreapp2.1\TaskList.Domain.dll
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Domain\bin\Debug\netcoreapp2.1\TaskList.Domain.pdb
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Domain\obj\Debug\netcoreapp2.1\TaskList.Domain.csprojAssemblyReference.cache
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Domain\obj\Debug\netcoreapp2.1\TaskList.Domain.csproj.CoreCompileInputs.cache
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Domain\obj\Debug\netcoreapp2.1\TaskList.Domain.AssemblyInfoInputs.cache
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Domain\obj\Debug\netcoreapp2.1\TaskList.Domain.AssemblyInfo.cs
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Domain\obj\Debug\netcoreapp2.1\TaskList.Domain.dll
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Domain\obj\Debug\netcoreapp2.1\TaskList.Domain.pdb

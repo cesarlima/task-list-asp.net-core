@@ -1,0 +1,14 @@
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Infra\bin\Debug\netcoreapp2.1\TaskList.Infra.deps.json
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Infra\bin\Debug\netcoreapp2.1\TaskList.Infra.dll
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Infra\obj\Debug\netcoreapp2.1\TaskList.Infra.csprojAssemblyReference.cache
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Infra\obj\Debug\netcoreapp2.1\TaskList.Infra.csproj.CoreCompileInputs.cache
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Infra\obj\Debug\netcoreapp2.1\TaskList.Infra.AssemblyInfoInputs.cache
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Infra\obj\Debug\netcoreapp2.1\TaskList.Infra.AssemblyInfo.cs
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Infra\bin\Debug\netcoreapp2.1\TaskList.Infra.pdb
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Infra\bin\Debug\netcoreapp2.1\TaskList.Domain.dll
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Infra\bin\Debug\netcoreapp2.1\TaskList.Domain.pdb
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Infra\obj\Debug\netcoreapp2.1\TaskList.Infra.csproj.CopyComplete
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Infra\obj\Debug\netcoreapp2.1\TaskList.Infra.dll
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Infra\obj\Debug\netcoreapp2.1\TaskList.Infra.pdb
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Infra\bin\Debug\netcoreapp2.1\TaskList.Infra.runtimeconfig.json
+D:\Testes Emprego\supero\back-and\TaskList\TaskList.Infra\bin\Debug\netcoreapp2.1\TaskList.Infra.runtimeconfig.dev.json
